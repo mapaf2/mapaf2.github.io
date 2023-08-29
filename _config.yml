@@ -11,9 +11,9 @@ title                    : "Mathieu Pagé Fortin"
 title_separator          : "-"
 name                     : &name "Mathieu Pagé Fortin"
 description              : &description "Portfolio"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mapaf2.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "mapaf2/mapaf2.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mathieu Pagé Fortin"
   avatar           : "profile.png"
-  bio              : "Adaptability and Extensibility of Deep Neural Networks"
+  bio              : "Developing Adaptability and Extensibility in Deep Neural Networks"
   location         : "Location"
   employer         :
   pubmed           :
@@ -175,7 +175,7 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  writings:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _writings
   - scope:
       path: ""
-      type: teaching
+      type: writings
     values:
       layout: single
       author_profile: true

@@ -1,15 +1,21 @@
 ---
-title: "Paper Title Number 1"
+title: "🧬 Analysis of the Signal Transduction Dynamics Regulating mTOR with Mathematical Modeling, Petri Nets and Dynamic Graphs"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2016/Analysis-Signal-Transduction-mTOR
+excerpt: 'We combine numerical simulations of differential equations, which produce the individual trajectories of protein concentrations, and structural analysis of the reaction network with Petri nets. Biologists wonder how two brief calcium influxes of 1
+second each can lead to this long activation downstream. With our computational approach, we explore a simple hypothesis for the response of
+mTOR, the crosstalk between the Akt and Wnt pathways, with two different models.'
+date: 2016-05-01
+venue: 'PNSE@ Petri Nets'
+#paperurl: 'https://ceur-ws.org/Vol-1591/paper24.pdf'
+#citation: 'Hardy, S. V., & Fortin, M. P. (2016). Analysis of the Signal Transduction Dynamics Regulating mTOR with Mathematical Modeling, Petri Nets and Dynamic Graphs. PNSE@ Petri Nets, 2016, 347-361.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Signaling networks in the mammalian cell are complex systems. Their dynamic properties can often be explained by the interaction
+of regulatory network motifs. Mathematical modeling is instrumental in
+explaining how these systems function. To accomplish this task in this
+paper, we combine numerical simulations of differential equations, which
+produce the individual trajectories of protein concentrations, and structural analysis of the reaction network with Petri nets..
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ceur-ws.org/Vol-1591/paper24.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Hardy, S. V., & Fortin, M. P. (2016). Analysis of the Signal Transduction Dynamics Regulating mTOR with Mathematical Modeling, Petri Nets and Dynamic Graphs. PNSE@ Petri Nets, 2016, 347-361.

@@ -1,15 +1,27 @@
 ---
-title: "Paper Title Number 3"
+title: "👓 Multimodal Sentiment Analysis: A Multitask Learning Approach"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2019-02-24-Multimodal-Sentiment-Analysis
+excerpt: 'In this paper we propose a method based on a multitask framework to combine multimodal information when it is
+available, while being able to handle the cases where a modality is missing. Our model contains one classifier
+for analyzing the text, another for analyzing the image, and another performing the prediction by fusing both
+modalities.'
+date: 2019-02-24
+venue: 'International Conference on Pattern Recognition Applications and Methods'
+#paperurl: 'https://pdfs.semanticscholar.org/2216/70f781b6e1796ad099d990051d85aa4a24d3.pdf'
+#citation: 'Fortin, M. P., & Chaib-Draa, B. (2019). Multimodal Sentiment Analysis: A Multitask Learning Approach. In ICPRAM (pp. 368-376)'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+Multimodal sentiment analysis has recently received an increasing interest. However, most methods have
+considered that text and image modalities are always available at test time. This assumption is often violated
+in real environments (e.g. social media) since users do not always publish a text with an image. In this
+paper we propose a method based on a multitask framework to combine multimodal information when it is
+available, while being able to handle the cases where a modality is missing. Our model contains one classifier
+for analyzing the text, another for analyzing the image, and another performing the prediction by fusing both
+modalities. In addition to offer a solution to the problem of a missing modality, our experiments show that this
+multitask framework improves generalization by acting as a regularization mechanism. We also demonstrate
+that the model can handle a missing modality at training time, thus being able to be trained with image-only
+and text-only examples.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://pdfs.semanticscholar.org/2216/70f781b6e1796ad099d990051d85aa4a24d3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Fortin, M. P., & Chaib-Draa, B. (2019). Multimodal Sentiment Analysis: A Multitask Learning Approach. In ICPRAM (pp. 368-376).

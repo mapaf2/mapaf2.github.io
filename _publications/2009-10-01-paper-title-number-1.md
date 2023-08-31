@@ -9,6 +9,8 @@ date: 2016-05-01
 venue: 'PNSE@ Petri Nets'
 #paperurl: 'https://ceur-ws.org/Vol-1591/paper24.pdf'
 #citation: 'Hardy, S. V., & Fortin, M. P. (2016). Analysis of the Signal Transduction Dynamics Regulating mTOR with Mathematical Modeling, Petri Nets and Dynamic Graphs. PNSE@ Petri Nets, 2016, 347-361.'
+header:
+    teaser: ../images/publications/petri_net.png
 ---
 Signaling networks in the mammalian cell are complex systems. Their dynamic properties can often be explained by the interaction
 of regulatory network motifs. Mathematical modeling is instrumental in

@@ -10,6 +10,8 @@ date: 2019-02-24
 venue: 'International Conference on Pattern Recognition Applications and Methods'
 #paperurl: 'https://pdfs.semanticscholar.org/2216/70f781b6e1796ad099d990051d85aa4a24d3.pdf'
 #citation: 'Fortin, M. P., & Chaib-Draa, B. (2019). Multimodal Sentiment Analysis: A Multitask Learning Approach. In ICPRAM (pp. 368-376)'
+header:
+    teaser: ../images/publications/icpram.png
 ---
 Multimodal sentiment analysis has recently received an increasing interest. However, most methods have
 considered that text and image modalities are always available at test time. This assumption is often violated

@@ -4,6 +4,8 @@ collection: writings
 type: "writings"
 permalink: /writings/2018-Descartes-Doute
 date: 2018-06-17
+header:
+    teaser: ../images/writings/Descartes_doute.png
 ---
 In a previous life, I delved into philosophy. In this text, I summarized the <i>hyperbolic doubt</i> of Descartes.
 

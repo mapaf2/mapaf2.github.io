@@ -7,6 +7,8 @@ date: 2019-06-05
 venue: 'Workshop on Crossmodal Learning and Application'
 #paperurl: 'https://pdfs.semanticscholar.org/2216/70f781b6e1796ad099d990051d85aa4a24d3.pdf'
 #citation: 'Pagé Fortin, M., & Chaib-draa, B. (2019, June). Multimodal multitask emotion recognition using images, texts and tags. In Proceedings of the <i>ACM Workshop on Crossmodal Learning and Application</i> (pp. 3-10).'
+header:
+    teaser: ../images/publications/wcrml.png
 ---
 Recently, multimodal emotion recognition received an increasing
 interest due to its potential to improve performance by leveraging

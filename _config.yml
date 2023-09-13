@@ -83,8 +83,8 @@ analytics:
 author:
   name             : "Mathieu Pagé Fortin"
   avatar           : "profile.png"
-  bio              : "Developing Adaptability and Extensibility in Deep Neural Networks"
-  location         : "Location"
+  bio              : "Developing Adaptability and Extensibility in Deep Neural Networks."
+  location         : "Québec, Canada"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=blSYECEAAAAJ&hl=fr"
@@ -94,7 +94,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           :
+  flickr           : 
   facebook         :
   foursquare       :
   github           : "mapaf2"

@@ -7,6 +7,6 @@ date: 2020-04-29
 header:
     teaser: ../images/writings/Proposition_de_sujet_de_recherche__main.png
 ---
-The research proposal I made and defended at the beginning of my Ph.D. 76 pages.
+The research proposal I made and defended at the beginning of my Ph.D.
 
-[See document](https://drive.google.com/file/d/1FEh4Bp_FVmJMei2N_msP8uK_ZwMLGKoB/view?usp=sharing)
+[See document](https://drive.google.com/file/d/1sK_9cn3-Hxe2gtpzGBc-8H3EQP4NxqSv/view?usp=sharing)

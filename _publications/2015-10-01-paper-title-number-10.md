@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2023-04-13-Dynamic-Y-KD
 excerpt: "This paper investigates the problem of class-incremental object detection for agricultural applications where a model needs to learn new plant species and diseases incrementally without forgetting the previously learned ones."
 date: 2023-10-02
-venue: '8th Workshop on Computer Vision in Plant Phenotyping and Agriculture (CVPPA 2023) at ICCV 2023'
+venue: 'Workshop on Computer Vision in Plant Phenotyping and Agriculture (CVPPA 2023) at ICCV 2023'
 #paperurl: 'https://arxiv.org/pdf/2304.06619.pdf'
 #citation: 'Fortin, M. P. (2023). Class-Incremental Learning of Plant and Disease Detection: Growing Branches with Knowledge Distillation. arXiv preprint arXiv:2304.06619.
 header:

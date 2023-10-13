@@ -16,6 +16,7 @@ redirect_from:
 <div style="clear: both;"></div>
 <br>
 
+![TAE](images/talks/TAE_figure.png)
 
 <p align="justify">
 <b> Short Bio </b><br>

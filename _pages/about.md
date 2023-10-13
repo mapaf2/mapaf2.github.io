@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p align="center">
+  <img src="images/talks/TAE_figure.png" alt="Tunability-Adaptability-Extensibility"/>
+</p>
+
 <div style="text-align: right; width: 16cm; float: right"> 
 « <b>Adaptability</b> is <i>the capacity to be modified for a new use or purpose.</i> »  <br>
 (Oxford University Press, 2017)<br>
@@ -15,8 +19,6 @@ redirect_from:
  </div>
 <div style="clear: both;"></div>
 <br>
-
-![TAE](images/talks/TAE_figure.png)
 
 <p align="justify">
 <b> Short Bio </b><br>
